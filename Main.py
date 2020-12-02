@@ -1,9 +1,10 @@
+"""Rigo's Integration Program"""
 __author__ = 'Rigoberto Diaz'
 
 #  This program is basically a math study application, The user will select a specific subject in math
 # and the program will send the users question till the user masters the subject.# The user masters a subject once
 # they get at least 7 question right without hitting the limit of wrongs, the user only has 3 freebies before the
-# whole progress is restarted# ##Citations###
+# whole progress is restarted# 
 import math
 import random
 
